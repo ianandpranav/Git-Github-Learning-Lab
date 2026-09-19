@@ -1,38 +1,52 @@
-# GitHub Practice
+# Git & GitHub Learning Lab
 
-A private repository for learning and practicing Git and GitHub workflows.
+A hands-on learning repository for understanding Git and GitHub
+through practical workflows, experiments, and real development practices.
 
 ## Purpose
 
-This repository is used to practice Git and GitHub concepts through
-hands-on experimentation.
+This repository is used to build a strong understanding of Git and GitHub
+by practicing version control concepts and professional development workflows.
 
-## What I Practice
+## Git
 
-- Git basics
-- GitHub repositories
-- Commits and commit history
+- Repository basics
+- Working directory
+- Staging area
+- Commits
+- Commit history
+- `git status`
+- `git diff`
+- `git log`
+- Push and pull
+- Revert and reset
+- `.gitignore`
+
+## GitHub
+
+- Repositories
 - Branches
 - Pull requests
+- Issues
 - Merging
-- Reverting changes
-- Experimenting with changes
-- Issue tracking
-- Understanding Git workflows
+- Conflict resolution
+- Tags
+- Collaboration workflows
 
-## Repository Workflow
+## Practice Workflow
 
-The practice workflow follows:
+**Learn → Practice → Experiment → Commit → Review → Merge**
 
-**Create → Modify → Commit → Branch → Experiment → Review → Merge → Revert**
+## Repository Structure
 
-## Experiments
+Topics and experiments are organized into focused sections as
+Git and GitHub concepts are learned.
 
-This repository may contain temporary files, test changes, branches,
-reverts, and other experiments created while learning Git and GitHub.
+## Approach
 
-It is intentionally kept separate from my public learning repositories.
+The goal is to understand how Git and GitHub work in real development
+environments rather than simply memorizing commands.
 
 ## Status
 
-**Active Practice Repository**
+**In Progress**
